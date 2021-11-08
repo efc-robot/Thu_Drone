@@ -23,6 +23,7 @@
 • Gazebo完成物理场景的模拟，通过发布话题的方式输出场景中各种物体的状态信息，以及无人机的位姿信息和拍摄的图像等;
 • 无人机控制程序需要根据收集的数据进行信息融合并设计控制算法;
 • 控制程序借助于MAVROS向无人机发送飞行指令(但是在仿真环境中，这一部分已经封装为tello的控制接口)，由PX4完成指令的执行。
+
 <img width="415" alt="image" src="https://user-images.githubusercontent.com/74605431/140717295-e86bf5d4-d14f-4d40-be7d-04fdcd8b1a7f.png">
 
 
