@@ -7,13 +7,12 @@ x86、x64、ARM和ppc架构，由全球化的专业开发团队(Canonical Ltd)�
 Ubuntu每六个月便会发布一个新版，以便人们实时地获取和使用新软件。推荐使 用长期支持版本(Long Term Support，LTS):16.04、18.04、20.04。
 <img width="1187" alt="image" src="https://user-images.githubusercontent.com/74605431/140700995-033778b8-2de2-4774-96db-48e3b7406ff3.png">
 
+### Ubuntu安装
+可使用虚拟机、双系统或直接使用助教配置完成的虚拟机镜像(快速上手，建议 优先尝试)。
+此处提供[清华大学开源镜像站](https://mirrors.tuna.tsinghua.edu.cn/)，详情请参照本章的PDF文件。
+<img width="1038" alt="image" src="https://user-images.githubusercontent.com/74605431/140705594-119b950e-0b35-4b7a-a4b2-af14bc930565.png">
 
-### ROS介绍：
-·机器人的开发是一个庞杂的系统工程，涉及到机械、电子、控制、通信、 软件等等诸多领域，个人独自开发面临着很多挑战。
-·随着机器人产业分工的细化，各个部件如底盘、电机、摄像头等分由不 同的厂家进行生产，而各个部件需要一个统一的控制平台来完成集成。 ROS操作系统就提供了这样一个平台来方便的进行机器人的操作。
-·ROS作为一个机器人编程框架或者说机器人的“操作系统”，为各个零 散的部件提供了通信的架构和标准，使机器人的感知、决策、控制算法 可以更便捷、更精确的进行。
-·ROS具有分布式点对点的特点，让每一个进程可以以独立的形式存在并 运行，便于模块化操作下的功能实现和修改。
-<img width="1029" alt="image" src="https://user-images.githubusercontent.com/74605431/140701238-1236a152-bdd3-4ba6-a3d9-9becfa8e2612.png">
+
 
 
 ### 课程视频：
