@@ -23,4 +23,8 @@
 ## 第四讲
 [仿真环境](https://github.com/efc-robot/Thu_Drone/tree/main/第四讲)
 
+## 第五讲
+[ROS控制无人机](https://github.com/efc-robot/Thu_Drone/tree/main/第五讲)
 
+## 第六讲
+[决赛发布](https://github.com/efc-robot/Thu_Drone/tree/main/第六讲)
