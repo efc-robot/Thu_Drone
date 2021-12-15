@@ -9,7 +9,7 @@
 
 仿真环境：认识仿真环境界面和飞行控制流程等。
 
-裁判机等其余相关文件参见清华云盘[链接](https://cloud.tsinghua.edu.cn/d/7dcd7b370b98484e8b8a/)（在“初赛环境（含裁判机）”文件夹下）
+相关文件：包括初赛环境（含裁判机）、环境配置附件、虚拟机。
 
 ### 仿真环境介绍
 操作系统:Ubuntu 18.04
@@ -49,3 +49,4 @@
 
 ### 课程视频
 https://cloud.tsinghua.edu.cn/d/85be4160128d4eef8f46/
+https://www.bilibili.com/bangumi/play/ep433947?spm_id_from=333.851.b_7265706f7274466972737431.1
