@@ -49,4 +49,3 @@
 
 ### 课程视频
 https://cloud.tsinghua.edu.cn/d/85be4160128d4eef8f46/
-https://www.bilibili.com/bangumi/play/ep433947?spm_id_from=333.851.b_7265706f7274466972737431.1
