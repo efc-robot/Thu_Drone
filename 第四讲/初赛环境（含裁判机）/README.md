@@ -1,9 +1,3 @@
-<style>
-table {
-margin: auto;
-}
-</style>
-
 # 初赛仿真环境使用说明
 ## 一、配置仿真环境
 	
