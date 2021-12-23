@@ -13,6 +13,10 @@
 ## 课程说明
 本课程属于：教育部产学合作协同育人项目
 
+<img width="1430" alt="image" src="https://user-images.githubusercontent.com/74605431/147200326-4b601a37-04ed-4c68-bfde-260164c377a2.png">
+
+本课程内容未明确声明可商用的均属于免费开源且禁止商业用途！若发现违规商业请联系我们举报删除。
+
 ## 第一讲
 [课程宣讲与环境配置](https://github.com/efc-robot/Thu_Drone/tree/main/第一讲)
 
